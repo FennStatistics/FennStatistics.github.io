@@ -39,7 +39,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://ieeexplore.ieee.org/abstract/document/7400555'
 url_video: ''
 
 # Featured image
