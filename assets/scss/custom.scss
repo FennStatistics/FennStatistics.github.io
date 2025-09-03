@@ -1,0 +1,31 @@
+#section-hero img {
+  /* Your custom styles */
+  height: auto;        /* Maintain aspect ratio */
+  border-radius: 20px; /* Optional: rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: add shadow */
+  margin: 10%;      /* Optional: space around the image */
+}
+
+
+#columnsFrontPage {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+#columnsFrontPage ul {
+  width: 45%;
+  list-style-type: none;
+  padding: 0;
+}
+
+@media (max-width: 768px) {
+  #columnsFrontPage {
+    flex-direction: column;
+  }
+
+  #columnsFrontPage ul {
+    width: 95%;
+  }
+}

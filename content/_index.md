@@ -14,27 +14,29 @@ sections:
       text: |
         <br>
         <div text-align: justify;">
-          The <strong>Utopia Research Group</strong> was founded with the aim of exploring social dreaming and utopian visions, combining interdisciplinary approaches to study societal change. We are committed to leveraging the latest quantitative and qualitative research tools to drive innovation in understanding the dynamics of societal transformation.
+          The <strong>Utopia Research Group</strong> was founded to explore social dreams and utopian visions through interdisciplinary approaches. We are dedicated to employing cutting-edge quantitative and qualitative research tools to uncover prevailing societal visions and spark discussions that inspire transformative change.
         </div>
   - block: markdown
     content:
       title: |
-        Our Research Questions and Tools:
-      subtitle: ''
+       Research Focus and Methodological Tools:
+      subtitle: '<i>Leveraging state-of-the-art methods to motivate discussion about possible future of society.</i>'
       text: |
-        <div style="display: flex; justify-content: space-between; width: 100%;">
-          <ul style="width: 45%;">
-            <li><strong>Research Questions</strong></li>
+        <div id="columnsFrontPage">
+          <!-- Left side: Research Questions -->
+          <ul>
+            <li><strong style="font-size: 30px;">Research Questions</strong></li>
             <li>Research Question 1</li>
             <li>Research Question 2</li>
-            <li>Research Question 3</li>
+            <li style="padding-left: 20px;"><span style="font-size: 30px;">&#8594;</span> Interdisciplinary research in Philosophy and Computer Science</li>
           </ul>
 
-          <ul style="width: 45%;">
-            <li><strong>Tools</strong></li>
-            <li>Tool 1</li>
-            <li>Tool 2</li>
-            <li>Tool 3</li>
+          <!-- Right side: Tools -->
+          <ul>
+            <li><strong style="font-size: 30px;">Tools</strong></li>
+            <li><strong>Qualitative:</strong> Developed an interactive mind map tool for large-scale qualitative data collection and analysis (see <a href="https://drawyourminds.de" target="_blank">drawyourminds.de</a>).</li>
+            <li><strong>Quantitative:</strong> Expertise in statistical methods (e.g., Psychometrics, Machine Learning, Language Model Analysis).</li>
+            <li style="padding-left: 20px;"><span style="font-size: 30px;">&#8594;</span> <strong>Methodological Innovation:</strong> Development of web-based platforms, linked to relational databases, to develop interactive tools for innovative data collection and analysis.</li>
           </ul>
         </div>
   - block: collection
