@@ -9,12 +9,19 @@ sections:
     content:
       title: |
         Exploring Utopian Visions
+      image: 
+        filename: welcome.jpg
       text: |
         <br>
-        <div style="width: 100%; text-align: justify;">
+        <div text-align: justify;">
           The <strong>Utopia Research Group</strong> was founded with the aim of exploring social dreaming and utopian visions, combining interdisciplinary approaches to study societal change. We are committed to leveraging the latest quantitative and qualitative research tools to drive innovation in understanding the dynamics of societal transformation.
         </div>
-        <br>
+  - block: markdown
+    content:
+      title: |
+        Our Research Questions and Tools:
+      subtitle: ''
+      text: |
         <div style="display: flex; justify-content: space-between; width: 100%;">
           <ul style="width: 45%;">
             <li><strong>Research Questions</strong></li>
