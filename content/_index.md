@@ -9,11 +9,9 @@ sections:
     content:
       title: |
         Exploring Utopian Visions
-      image:
-        filename: welcome.jpg
       text: |
         <br>
-        The Utopia Research Group was founded with the aim of exploring social dreaming and utopian visions, combining interdisciplinary approaches to study societal change. We are committed to leveraging the latest quantitative and qualitative research tools to drive innovation in understanding the dynamics of societal transformation.
+        The **Utopia Research Group** was founded with the aim of exploring social dreaming and utopian visions, combining interdisciplinary approaches to study societal change. We are committed to leveraging the latest quantitative and qualitative research tools to drive innovation in understanding the dynamics of societal transformation.
         <br>
         <div style="display: flex; justify-content: space-between;">
           <ul style="width: 45%;">
