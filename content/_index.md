@@ -8,15 +8,12 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Exploring Utopian Visions
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+        The Utopia Research Group was founded with the aim of exploring social dreaming and utopian visions, combining interdisciplinary approaches to study societal change. We are committed to leveraging the latest quantitative and qualitative research tools to drive innovation in understanding the dynamics of societal transformation.  
   - block: collection
     content:
       title: Latest News
